@@ -30,7 +30,7 @@ export const metadata = {
       template: APP_TITLE_TEMPLATE,
     },
     description: APP_DESCRIPTION,
-  }
+  },
 };
 
 export default function RootLayout({ children }: { children: any }) {

@@ -36,3 +36,10 @@ yarn-error.log*
 
 # storybook
 storybook-static
+
+# next-pwa
+**/public/workbox**
+**/public/sw**
+**/public/worker**
+**/public/fallback**
+**/public/precache**
